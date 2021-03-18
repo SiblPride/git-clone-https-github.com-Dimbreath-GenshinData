@@ -4,6 +4,8 @@ There's been a lot of misunderstandings going around as of late regarding certai
 
 First of all, no, the leaks are time gated to build up hype not to "gain attention to earn money" as some people has been spreading around and to avoid MiHoYo to react the way they did yesterday which was probably due to the amount of content that was leaked by "unknown" parties. My Ko-Fi and Patreon exist *(and existed for years, at least for the Ko-Fi)* because I develop and maintain bots and guess what, that costs money, while at the same time I also maintain repositories for multiple games that automatically update for people to use the data on their websites, bots, applications or whatever which you can see on my GitHub profile, the Ko-Fi/Patreon are there if people want to lend me a hand maintaining the server I pay for.
 
+And even then, the fact that there's people that's belittling and minimizing the fact of what has been an entire month of work for us is also kind of irritating, considering the amount of time and effort that it takes.
+
 ---
 
 The events that happened:
